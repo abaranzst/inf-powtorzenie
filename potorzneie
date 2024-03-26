@@ -1,0 +1,15 @@
+CO NA SPR INFORMATYKA
+
+
+1.co to złożoność obliczeniowa algorytmu- na złożoność składa się czas i pamięć, co to złożoność pamięciowa i opisowa
+2.3 odmiany złożoności obliczeniwej (przypadek optymistyczny,średni,pesymistyczny)
+3.algorytm sita eratostenesa
+4. Schemat blokowy, badania liczby pierwszej (operacje w algorytmie, uzupełnianie schematu)
+5.Kod programu sprawdzający czy n jest liczbą pierwszą
+6.Kod programu generujący n ilość liczb pierwszych
+7.schemat blokowy metody optymalnej i nieoptymalnej euklidesa
+8. liczenie NWW i NWD
+
+9. rekurencja- wywołanie funkcji lub definicji funkji przez samą siebie
+10. kod programu skracający ułamki
+11. kod programu wyłączający liczbę całkowitą i resztę z ułamka
